@@ -1,0 +1,6 @@
+E:\project\P507\MethodApp\MethodApp\bin\Debug\MethodApp.exe.config
+E:\project\P507\MethodApp\MethodApp\bin\Debug\MethodApp.exe
+E:\project\P507\MethodApp\MethodApp\bin\Debug\MethodApp.pdb
+E:\project\P507\MethodApp\MethodApp\obj\Debug\MethodApp.csprojAssemblyReference.cache
+E:\project\P507\MethodApp\MethodApp\obj\Debug\MethodApp.exe
+E:\project\P507\MethodApp\MethodApp\obj\Debug\MethodApp.pdb
